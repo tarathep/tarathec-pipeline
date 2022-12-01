@@ -28,7 +28,7 @@ jobs:
             },
             {
               "name": "TutorialDatabase__DatabaseName",
-              "value": "dev-tutorial-x",
+              "value": "dev-tutorial",
               "slotSetting": false
             },
             {
