@@ -15,7 +15,7 @@ CI/CD pipeline designed separate between CI repositories for build artifact and 
 
 On this repository have dependencies with CI applications repositories for get artifact to deploy.
 
-CDC02-ImgstorAPI
+CI - Pipeline and Source Code
 - https://github.com/tarathep/tarathec-tutorial-backend
 
 
